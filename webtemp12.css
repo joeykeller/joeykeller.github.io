@@ -1,0 +1,115 @@
+
+  
+body{
+    font-family: comic, times,helvetica;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+
+
+header{
+    background: rgb(90,90,90);
+    color:white;
+    border-bottom:black 3px solid;
+    min-height: 120px;
+    
+}
+
+header h1{
+    float:left;
+    margin-top: 50px;
+    
+}
+
+nav{
+    float: right;
+    margin-top: 50px;
+}
+
+header li{
+    
+    display: inline;
+    margin: 10px;
+    font-size: 20px;
+    color:black;
+    
+}
+
+header a{
+    text-decoration:none;
+    color:white;
+    text-transform: uppercase;
+    
+}
+#showcase{
+    
+    background:url(catdog.jpeg)  -800px +1200px;
+    min-height: 600px;
+    max-height: 700px;
+    color:black;
+    font-weight:bold;
+}
+#showcase h1{
+    color:black;
+    font-weight:bold;
+}
+
+
+#hat{
+    margin-top: 20px;
+}
+
+.hat{
+    float:left;
+    width: 30%;
+    text-align:center;
+    
+}
+
+.hat h3{
+    color:black;
+}
+
+footer{
+    background-color:grey;
+    color:black;
+    margin-top:10px;
+    border-top: black 3px solid;
+
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    
+}
+
+header a:hover{
+    color: grey;
+    
+}
+
+.highlight{
+    color: grey;
+}
+
+#showcaseBio{
+    float:left;
+    width: 40%;
+}
+
+#sidebar h1{
+    color: black;
+}
+
+#sidebar{
+    margin-top:30px;
+    float:right;
+    width:50%;
+    background-color: grey;
+}
+
+

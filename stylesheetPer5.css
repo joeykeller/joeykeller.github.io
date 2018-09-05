@@ -1,0 +1,14 @@
+body{
+    font-family: arial, helvetica, sans-serif;
+    background-color: rgb(200,200,200);
+    font-size: 15px;
+    line-height:5;
+    color:red;
+}
+
+h1{
+    background-color:black;
+    color:white;
+    width: 15%;
+
+}
