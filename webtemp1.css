@@ -77,6 +77,7 @@ footer{
     color:black;
     margin-top:10px;
     border-top: black 3px solid;
+    
 
 }
 
@@ -98,7 +99,7 @@ header a:hover{
 
 #showcaseBio{
     float:left;
-    width: 40%;
+    width: 100%;
 }
 
 #sidebar h1{
@@ -112,4 +113,7 @@ header a:hover{
     background-color: grey;
 }
 
+footer li{
+    list-style:none;
+}
 
